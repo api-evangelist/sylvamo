@@ -23,6 +23,8 @@ description: >-
   channels and investor and corporate communications channels.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sylvamoco
   - type: Website
     url: https://www.sylvamo.com/
   - type: Investors
