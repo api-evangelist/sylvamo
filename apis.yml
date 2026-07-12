@@ -23,6 +23,8 @@ description: >-
   channels and investor and corporate communications channels.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/sylvamo-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/sylvamoco
   - type: Website
@@ -35,6 +37,8 @@ common:
     url: https://www.sylvamo.com/careers
   - type: Contact
     url: https://www.sylvamo.com/contact-us
+  - url: https://www.sylvamo.com/us/en/newsroom
+    type: Blog
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
